@@ -1,7 +1,7 @@
 # Created by https://www.gitignore.io/api/java,kotlin,eclipse,intellij
 
 ### Eclipse ###
-
+redate.sh
 .metadata
 bin/
 tmp/
